@@ -51,6 +51,7 @@ Below papers are related with cryptographical view
 *I should review these papers*
 - **Scilla: a Smart Contract Intermediate-Level LAnguage** (2018), Ilya Sergey et al. [[pdf]](https://arxiv.org/pdf/1801.00687.pdf)
 - **NeuCheck: A more practical Ethereum smart contract security analysis tool** (2019), N. Lu et al. [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.2745)
+- **Ethainter: a smart contract security analyzer for composite vulnerabilities** (2019), L. Brent et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3385412.3385990)
 
 
 ### Book / Survey / Review
