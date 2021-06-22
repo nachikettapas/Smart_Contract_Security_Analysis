@@ -59,6 +59,7 @@ Below papers are related with cryptographical view
 
 ### Book / Survey / Review
 - Interactive Theorem Proving and Program Development (2004), Bertot, Yves, Castéran, Pierre. [[web]](http://www.springer.com/gp/book/9783540208549)
+- A Survey on Formal Verification for Solidity Smart Contracts (2021), I. Garfatta et al. [[web]](https://dl.acm.org/doi/pdf/10.1145/3437378.3437879)
 
 ### Lectures / Survey / Blogs
 
